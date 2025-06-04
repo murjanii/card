@@ -1,0 +1,23 @@
+.comment-detail {
+  display: flex;
+  align-items: flex-start;
+}
+
+.avatar {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.content .author {
+  font-weight: bold;
+}
+
+.content .metadata {
+  color: gray;
+  font-size: 0.85rem;
+  margin-bottom: 5px;
+}
+
+.content .text {
+  font-size: 1rem;
+}
